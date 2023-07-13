@@ -27,8 +27,6 @@ This repository contains a Python project that allows you to create and share in
 
 Join the community by sharing your feedback, ideas, and contributions. Let's make the world a little more inspired, one quote at a time! Feel free to open issues for bug reports or feature requests. Pull requests are also welcome.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
-Feel free to modify and customize the README file according to your specific project's structure and additional details.
+
